@@ -4,6 +4,7 @@ Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 ## v3.4.2
 - Albaraka Türk banka entegrasyonu eklendi
 - Daire sakinleri kredi kartı ödemeleri için ödeme fişi eklendi
+- Borç durumu raporuna tarih aralığı eklendi
 - Sayaçlara ondalık veri girişi seçeneği eklendi
 - İşletme defterine kasa bilgisi eklendi
 - Daire listesine sütun seçimi özelliği eklendi
