@@ -1,6 +1,17 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.6.3
+- Performans iyileştirmesi için gerekli düzeltmeler yapıldı.
+- Kat maliki dashboard 'una kiraci borç bilgisi eklendi.
+
+## v3.6.2
+- Biyos Pro site eklemedeki daire limiti arttırıldı.
+- K.Kartı ödeme sayfasındaki yazı hatası düzeltildi.
+- Biyos Pro yönetici ve denetçinin not ekleme özelliği kapatıldı.
+- Kredi kartı taksitli pos komisyon oranları güncellendi.
+- Notlar kısmına saat bilgisi eklendi.
+
 ## v3.6.1
 - Bazı hatalar giderildi.
 
