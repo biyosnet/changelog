@@ -1,6 +1,45 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.8.2
+- Tekrarlama görevi vade seçimine özel alanlar eklendi.
+
+## v3.8.1
+- Yönetim şirketi banka entegrasyonu mütabakat ekranında iyileştirmeler yapıldı
+- Bazı hatalar giderildi. 
+
+## v3.8.0
+- Biyos mobil uygulaması IOS ve Android marketlerine eklendi.
+- Biyos mobil uylulamasına mobil fiş yazıcı entegre edildi.
+
+## v3.7.1
+- Docker Container eklendi.
+- İşletme projesi özel daire seçimi eklendi.
+
+## v3.7.0
+- Mobil versiyon için API yazıldı.
+- Mobil Versiyon için servisler yazıldı.
+- Mautic entegrasoyunu ve API eklendi.
+
+## v3.6.6
+- Tahsilat makbuzuna güncel bakiye alanı eklendi.
+- Komşular sayfası kaldırıldı.
+
+## v3.6.5
+- Gider ödemelerinde gelen arşiv kasa kaldırıldı.
+- Bazı imla hataları giderildi.
+
+## v3.6.5
+- Kasa ve raporlardaki nokta, virgül sorunu giderildi.
+- Bilançodaki kategorisiz kayıtlara detay eklendi.
+- İleti Merkezi entegrasyonu gönderim raporu
+- Halk Bankası pos oranları güncellendi.
+- Geri bildirimden gelen bazı hatalar giderildi.
+
+## v3.6.4
+- NetGSM Entegrasyonu eklendi.
+- Daire Sakini Kategori raporu eklendi.
+
 ## v3.6.3
 - Performans iyileştirmesi için gerekli düzeltmeler yapıldı.
 - Kat maliki dashboard 'una kiraci borç bilgisi eklendi.
