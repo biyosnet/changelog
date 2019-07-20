@@ -1,6 +1,28 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.8.6
+- Enpara.com Şirketim banka entegrasyonu eklendi.
+- Not ekleme ekranına çoklu dosya ekleme özelliği eklendi.
+- Not alanına ses dosyası eklenebilir hale getirildi.
+- T.C. Kimlik No doğrulama eklendi.
+- Bazı hatalar giderildi.
+
+## v3.8.5
+- Mobil API güncellendi.
+- Bazı hatalar giderildi.
+
+## v3.8.4
+- Gün sonu raporunda iyileştirme yapıldı.
+- Vakıfbank MT940 entegrasyonu eklendi.
+- Alternatif telefon alanı eklendi.
+
+## v3.8.3
+- Interaktif SMS entegrasyounu eklendi.
+- Denizbank Web Servis Entegrasyonu eklendi.
+- Toplu borçlandırmada istina seçeneği iyileştirildi.
+- Bazı hatalar giderildi.
+
 ## v3.8.2
 - Tekrarlama görevi vade seçimine özel alanlar eklendi.
 
