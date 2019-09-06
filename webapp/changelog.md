@@ -1,6 +1,33 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.8.8.1
+- Bazı hatalar giderildi.
+
+## v3.8.8
+- Bildirim şablonlarında iyileştirme yapıldı.
+- Yeni SMS ve E-Posta bildirim şablonları eklendi.
+- Gider tekrarlama görevi vade tarihine aysonu eklendi.
+- Daireler sayfasına toplu işlemler eklendi.
+- İçe aktarma kategori bilgisi eklendi.
+- Hesap ekstresine TC Kimlik no bilgisi eklendi.
+
+## v3.8.7
+- Telefon no. ile kişi arama eklendi.
+- Bilançodaki iki alanda isim değişikliği yapıldı.
+- Tedarikçi ve Personel hesaplarına IBAN alanı eklendi.
+- Hesaplara bağlı gider kayıtlarına IBAN bilgisi eklendi.
+- İcra takibi detayına telefon no. eklendi.
+- Borç Durumu raporunda daire sakini kategori raporundaki eski sakinler gizlendi.
+- Duyurulara dosya ekleme özelliği eklendi.
+- Destek talebi bildirim hatası giderildi.
+- MOKA 'ya bayi ekleme kaldırıldı.
+- Hesaplar detay ekranına doğum tarihi eklendi.
+- Bugün ödenecekler bildirim e-postası iyileştirildi.
+- Kuveytturk web servis hatası giderildi.
+- Denizbank BIN numaraları eklendi.
+- Bazı hatalar giderildi.
+
 ## v3.8.6
 - Enpara.com Şirketim banka entegrasyonu eklendi.
 - Not ekleme ekranına çoklu dosya ekleme özelliği eklendi.
