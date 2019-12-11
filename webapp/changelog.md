@@ -1,6 +1,18 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.9.0
+- Yönetim şirketlerine dasboard eklendi.
+- Yönetim şirketleri sözleşme süresi bildirimi eklendi.
+- Takvim modülü eklendi.
+- Hatırlatıcı ve hatırlatıcı bildirimi eklendi.
+- Kredi kartı komisyon oranları düşürüldü.
+- "Uzaktan" sayaç okuma entegrasyonu tamamlandı.
+- Ev sahibi kiracı hesap detaylarına erişebilir.
+- Daireler toplu işlemler genişletildi.
+- Performans iyileştirmeleri yapıldı.
+- Bazı hatalar giderildi.
+
 ## v3.8.8.1
 - Bazı hatalar giderildi.
 
