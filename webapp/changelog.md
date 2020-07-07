@@ -1,6 +1,15 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.9.3
+- Duyurular evrak silme eklendi.
+- Toplu SMS Servisi ile ilgili güncelleme yapıldı.
+- Daire sakini hesapları altıra adres alanı eklendi.
+- Yönetim şirketi dashboard ile ilgili güncellemeler yapıldı.
+
+## v3.9.2.1
+- Uzaktan Sayaç Okuma servisi ile ilgili ek geliştirmeler yapıldı.
+
 ## v3.9.2
 - Mobil uygulama online aidat tahsilatı eklendi.
 - Mobil uygulamada performans iyileştirmesi yapıldı.
