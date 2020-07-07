@@ -2,7 +2,7 @@
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
 ## v3.9.0
-- Yönetim şirketlerine dasboard eklendi.
+- Yönetim şirketlerine dashboard eklendi.
 - Yönetim şirketleri sözleşme süresi bildirimi eklendi.
 - Takvim modülü eklendi.
 - Hatırlatıcı ve hatırlatıcı bildirimi eklendi.
