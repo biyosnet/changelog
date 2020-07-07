@@ -1,6 +1,17 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.9.2
+- Mobil uygulama online aidat tahsilatı eklendi.
+- Mobil uygulamada performans iyileştirmesi yapıldı.
+- Bazı hatalar giderildi.
+
+## v3.9.1
+- KVKK çerçevesinde bazı değişiklikler yapıldı.
+- Ödeme kuruluşu alt yapısı değişti.
+- Online tahsilat komisyon oranı güncellendi.
+- Bazı hatalar giderildi.
+
 ## v3.9.0
 - Yönetim şirketlerine dashboard eklendi.
 - Yönetim şirketleri sözleşme süresi bildirimi eklendi.
