@@ -1,6 +1,35 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
 
+## v3.10.0
+- TC kimlik doğrulayamama hatası giderildi.
+- Yönetim şirketinde kasa hareketi girişindeki tarih kaldırıldı.
+- Yönetim Şirketi dashboard tab güncellendi.
+- Tüm kart ekranlarına geçmiş sayfaları eklendi.
+- Fırsat başvuruları düzenlendi.
+- Carisiz giderlerdeki hata giderildi.
+- Planlar sayfası mobil uyumu yapıldı.
+- Site yönetici ve denetçilerinin atama ekranı eklendi
+- Uzak sayaç okuma talebi eklendi.
+- CRM bağlantısı eklendi.
+- Bazı hatalar giderildi.
+- Hotfixes
+
+## v3.9.6
+- Yönetim şirketi banka entegrasyonu ile ilgili ek güncellemeler.
+- Biyos üyelik paketleri yetkilendirmeleri ile ilgili ek güncellemeler.
+- Daire brüt ve net m² lerin decimal olarak girilmesi sağlandı.
+- Banka entegrasyonu İşbank timeout eklendi.
+
+## v3.9.5
+- Daire sakini ekranlarına "Fırsatlar" sayfası eklendi.
+
+## v3.9.4
+- Mobil uygulama / Online Tahsilat ek güncellemeler
+- Birden fazla hesabı olanların tek hesapta toplanarak girişte hesap seçmesi.
+- Uzaktan Sayaç Okuma servisi ile ilgili ek geliştirmeler yapıldı.
+- Biyos Ücretsiz Versiyon yayına alındı. 
+
 ## v3.9.3
 - Duyurular evrak silme eklendi.
 - Toplu SMS Servisi ile ilgili güncelleme yapıldı.
