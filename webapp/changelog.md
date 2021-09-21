@@ -1,5 +1,41 @@
 # Biyos'a Neler Eklendi
-Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.  
+Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
+
+## v3.12.1
+- Pagination select olarak değiştirildi.
+- Destek ekibi erişimi için izin eklendi.
+- Arşivdeki binalar gecikme ve tekrarlama görevleri pasif edildi.
+- Yabancı uyruklu T.C. kimlik no doğrulama eklendi.
+- Daire sakini ekranı hızlı kredi kartı ödeme butonu eklendi.
+- Bazı hatalar giderildi.
+
+## v3.12.0
+- Ödeme kuruluşu alt yapısı değiştirildi.
+
+## v3.11.4
+- Giderlere fatura no eklendi.
+- Notlar için pin eklendi.
+- Kasa bilgi fişi eklendi.
+- Bazı hatalar giderildi.
+
+## v3.11.2
+- Dil güncellemesinden kaynaklı bazı hatalar giderildi.
+
+## v3.11
+- İngilizce dil dönüşümü yapıldı.
+
+## v3.10.4
+- Bilanço kategori ekranına yazdırma seçeneği eklendi.
+- Özel giriş ekranı standart ve premium kullanıcıları için aktif edildi.
+- Sentry js logging eklendi
+- Mobil üyelik ödeme ekranı daha kullanışlı hale getirildi.
+- Bazı hatalar giderildi.
+
+## v3.10.2
+- Banka entegrasyonu sayfalama eklendi.
+- Banka entegrasyonu cari arama kısmı iyileştirildi.
+- Banka entegrasyonu önerilen eşleştirmeler iyileştirildi.
+- Bazı hatalar giderildi.
 
 ## v3.10.0
 - TC kimlik doğrulayamama hatası giderildi.
