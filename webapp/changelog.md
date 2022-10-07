@@ -1,6 +1,24 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+## v3.14
+- Yabancı kredi kartı komisyon oranları güncellendi.
+- Hızlı aktarım dosyası hesap devir kategorisi eklendi.
+- Çıkış yapan daire sakini için borç durum çıktısı üretildi.
+- Bilançoya ek alanlar eklendi.
+- Kategori bazlı ödemeler raporu eklendi.
+- Anketlere hesap tipi filtresi eklendi.
+- Hesap sıfırlama ekranınsa sıfırlama seçenekleri arttırıldı.
+- Araçlar için park yeri alanı eklendi.
+- Kasa/Banka işlemleri için işlem yapan kullanıcı bilgileri eklendi.
+- İşletme defteri kasa filtresi eklendi.
+- Kullanıcı giriş bilgileri raporuna hesap tipi filtresi eklendi.
+- İcra borç seçimine filtre eklendi.
+- Tahsilatlar raporuna ek alanlar eklendi.
+- Borç durumu raporunda iyileştirmeler yapıldı.
+- Site silme ekranında iyileştirmeler yapıldı.
+- Bazı hatalar giderildi.
+
 ## v3.13.4
 - Personel izin yönetimi eklendi.
 - Kat maliki kiracısının borcunu görüntüleme ve kredi kartı ile ödeme ekranı ekranı yapıldı.
