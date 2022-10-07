@@ -1,6 +1,50 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+## v3.13.4
+- Personel izin yönetimi eklendi.
+- Kat maliki kiracısının borcunu görüntüleme ve kredi kartı ile ödeme ekranı ekranı yapıldı.
+- Notlar bölümü editörüne ek özellikler eklendi.
+- Kredi kartı IPN servisi eklendi.
+- Yönetim Şirketi hizmet ücretleri ve site birim fiyatları raporu eklendi.
+- Aynı numaraya birden fazla SMS 'ler kuyruğa alındı.
+- Giderler süz ekranına fatura no. eklendi.
+- Kategori bazlı borç durumu raporu iyileştirildi.
+- Cari hesap arşivleme eklendi.
+- Arsa payı ondalık veri girişi eklendi.
+- Hatırlatma ekranında iyileştirmeler yapıldı.
+- Duyurular alanına yorum eklendi.
+- Mobil uygulama T.C. kimlik doğrulama servisi güncellendi.
+- Payzee güncellemesi yapıldı.
+- Borç durumu raporuna ay filtresi eklendi.
+- Bazı hatalar giderildi.
+
+## v3.13.3
+- Mobil App işletme projesi oluşturma ekranı iyileştirildi.
+- PDF export iyileştirildi.
+- Ziraatbank Payten entegrasyonu yapıldı.
+- Bildirimler alanı yeni filtreler eklendi.
+- Web whatsapp bağlantısı eklendi.
+- Banksocket entegrasyonu güncellemeleri yapıldı.
+- Bazı hatalar giderildi.
+
+## v3.13.2
+- Verimor SMS entegrasyonu eklendi.
+
+## v3.13.1
+- Tarih aralığı ile seçilen rapolarda başlangıç ve bitiş tarihleri rapor çıktısına eklendi.
+- Yönetim Şirketi hesap arama sonuç ekranına scroll eklendi.
+- Kasa/Banka özet durum raporu eklendi.
+- Notlar kısmı editöründe iyileştirmeler yapıldı.
+- Daire sakini ödeme ekranında borç seçme ve ödeme ekranlarında iyileştirmeler yapıldı.
+- E-Posta ile bildirimde gönderim durumu iyileştirildi.
+- Banka entegrasyonu mütabakat ekranında kullanıcı deneyimine dayalı iyileştirmeler yapıldı.
+- Borç Durumu raporuna yeni filtreler eklendi.
+- Duyurular kısmına okuma sayısı eklendi.
+- Bilançoya yeni alanlar eklendi.
+- Kasa/Banka ekranlarına yeni etiket ve filtre eklendi.
+- Bazı hatalar giderildi.
+
 ## v3.12.1
 - Pagination select olarak değiştirildi.
 - Destek ekibi erişimi için izin eklendi.
