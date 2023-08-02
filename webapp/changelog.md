@@ -1,6 +1,31 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+## v3.16
+- Aidat ve giderlerdeki toplu işlemlere yeni alanlar eklendi. 
+- Oluşturulan bildirimleri silme butonu eklendi.
+- Bazı hatalar giderildi. 
+
+## v3.15
+- Yöneticiler için yeni yetkiler eklendi.
+- Zorunlu alanların vurgusu artırıldı.
+- Gecikme zammı için açma eklendi.
+- Toplu hesap sihirbazına yeni alanlar eklendi.
+- Toplu olarak mükerrer kategorileri birleştirme alanı eklendi.
+- Denetçi taporu eklendi.
+- Raporlarda sıfırdan farklı borçları gösterme filtresi eklendi.
+- Kat maliki ve kiracı yer değişimi butonu eklendi. 
+- Boş bırakılacak daireler için otomatik isim atama seçeneği eklendi.
+- Kullanıcı giriş bilgileri e-posta şablonu olarak eklendi.
+- Daire listesine sadece oturanları gösterme seçeneği eklendi.
+- Blok ekleme ve düzenleme ekranı eklendi.
+- Anket ve duyurulara kişi ve blok filtresi eklendi.
+- Bilançoya para giriş ve para çıkış işlemleri için detay alanları eklendi.
+- Daire sakinleri arasında borç aktarma işlemi eklendi.
+- Gönderilen sms lerin çıktılarının alınması için buton eklendi.
+- Aidat ve giderler için toplu işlemler eklendi.
+- Bazı hatalar giderildi. 
+
 ## v3.14
 - Yabancı kredi kartı komisyon oranları güncellendi.
 - Hızlı aktarım dosyası hesap devir kategorisi eklendi.
