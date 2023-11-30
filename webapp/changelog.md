@@ -1,6 +1,33 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+
+## v3.17
+- Mobil uygulama uyum düzenlemeleri yapıldı.
+- Kasa/banka hareketleri için detay sayfası eklendi.
+- Başlangıç planı tekrarlama görevi sayfasındaki ekran hataları giderildi.
+- Yönetim Şti. gecikme açılış tarihi sistem günlüğüne eklendi.
+- Geciken borçlar için vade tarihi - gün eşitliği kaldırıldı
+- Online tahsilat detay sayfasında iyileştirmeler yapıldı.
+- İcra takibi sayfasındaki hatalar giderildi, iyileştirmeler yapıldı.
+- Ödemeler raporuna fatura linki eklendi.
+- Tahakkularda sıralama blok ve daire no olarak değiştirildi
+- Mautic baglantısı koparıldı
+- kullanıcıların e-posta ve telefon bilgilerinin düzenlebilme yetkisi yöneticiye bırakıldı. 
+- Blok için varsayılan max. daire sayısı arttırıldı.
+- Docker Mysql versiyonu ve init scriptleri eklendi
+- Blok ekleme sayfasında iyileştirmeler yapıldı.
+- Şirket kullanıcıları diğer sitelere geçemiyor hatası giderildi.
+- Blok düzenlemesi kaldırıldı.
+- Daire sayısı güncellemesi eklendi.
+- Mobil versiyon için merge güncellemeleri yapıldı.
+- Mobil bildirimleri içeren bildirim sayfası eklendi.
+- Tekrarlama görevi Slack bağlatısında iyileştirmeler yapıldı.
+- Sistem günlüğüne yeni eklemeler yapıldı.
+- Eski daire sakinlerinin giriş sorunuu giderildi, borçları hariç bazı alanlar kaldırıldı.
+- Hızlı aktarım dosyası linki değiştirildi.
+- Bazı hatalar giderildi.
+
 ## v3.16
 - Aidat ve giderlerdeki toplu işlemlere yeni alanlar eklendi. 
 - Oluşturulan bildirimleri silme butonu eklendi.
