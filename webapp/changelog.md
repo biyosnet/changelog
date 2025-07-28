@@ -1,6 +1,23 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+## v3.20 
+  - Mobil uygulama uyum düzenlemeleri yapıldı.
+  - Raporlara yeni filtreler eklendi.
+  - Avukat panelinde geliştirmeler yapıldı.
+  - Bazı hatalar giderildi.
+
+## v3.19
+  - Mobil uygulama uyum düzenlemeleri yapıldı.
+  - Yönetim şirketleri için siteleri arşive alma seçeneği eklendi.
+  - Bazı hatalar giderildi.
+
+## v3.18
+  - Mobil uygulama uyum düzenlemeleri yapıldı.
+  - Toplam, geciken ve ödenen borç raporu eklendi.
+  - Kişi detay sayfasından SMS ve Eposta gönderme seçenekleri eklendi. 
+  - Periyodik Bakım alanı eklendi.
+  - Bazı hatalar giderildi.
 
 ## v3.17
 - Mobil uygulama uyum düzenlemeleri yapıldı.
