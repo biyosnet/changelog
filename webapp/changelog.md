@@ -1,6 +1,21 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+## v3.30 
+  - Referans alanı eklendi. Artık referans kodunuzla satın alınan üyeliklerde hediye üyelik kazanabilirsiniz. 
+  - Daire sakinleri ekranındaki bilanço raporu güncellendi.
+  - Avukat panelinde geliştirmeler yapıldı.
+  - Hesaplar arası borç aktarmada kişi tipleri belirgin oldu.
+  - Kasa banka ekstre raporu güncellendi.
+  - Ödemeler ve alacak raporuna fatura alanı eklendi.
+  - Tahsilat raporuna kasa ve kategori filtresi eklendi.
+  - Bazı raporlardaki excel ile dışa aktarma sorunu giderildi.
+  - Periyodik bakım alanı güncellendi.
+  - Sayaç okumaları içiçn dışa aktarma eklendi.
+  - İşletme defterine kasa banka devri eklendi.
+  - Bildirim gönderimlerindeki gösterim sorunu giderildi. 
+  - Bazı hatalar giderildi.
+
 ## v3.20 
   - Mobil uygulama uyum düzenlemeleri yapıldı.
   - Raporlara yeni filtreler eklendi.
