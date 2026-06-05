@@ -1,6 +1,25 @@
 # Biyos'a Neler Eklendi
 Biyos web uygulamasında yapılan geliştirme ve güncellemeleri içerir.
 
+## v3.40 
+  - Periyodik bakım kategorilerini ekleme, silme ve gösterme sorunları giderildi.
+  - Raporlar ve hesap detaylarında kullanıcı şifrelerinin görüntüleme sorunu giderildi.
+  - İcra dosyalarında avukat ve yönetici için bildirim eklendi.
+  - Mobil uygulama görünüm sorunları giderildi.
+  - Kasa/banka devirlerinde tarih seçme alanı getirildi.
+  - Bilanço özet raporuna devir işlemleri getirildi ve mobil görünüme uyumlu hale getirildi.
+  - Yönetici ve denetçiler için daire sakinlerinin kimlik bilgilerinin görüntülenmesi seçeneği getirildi.
+  - Tahakkuk raporuna kategori filtresi eklendi.
+  - Birden fazla aracı olanların aramalardaki gösterim sorunu giderildi. 
+  - Bildirimlere tümünü oku seçeneği eklendi.
+  - Tahsilat eklerken ödeme yöntemleri getirildi.
+  - Cari raporuna tarih filtresi eklendi.
+  - Makbuzları e-posta ile paylaşma seçeneği getirildi.
+  - Notlara eklenen dosyaların görüntülenme sorunu giderildi.
+  - Destek talebi mesajları için okundu bilgisi ve düzenleme seçeneği getirildi.
+  - İcra bildirimi için evrak şablonu hazırlandı.
+  - Daire sakinleri için alacaklı ve borçlu durumları gösterildi.
+
 ## v3.30 
   - Referans alanı eklendi. Artık referans kodunuzla satın alınan üyeliklerde hediye üyelik kazanabilirsiniz. 
   - Daire sakinleri ekranındaki bilanço raporu güncellendi.
